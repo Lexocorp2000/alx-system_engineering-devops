@@ -10,3 +10,4 @@
 8-James_Bond file contains a script that sets the permission to the file hello as owner:no permission at all,group:no permission at all,other users:all the perimissions
 9-John_Doe file contains a script that sets the mode of the file hello this: The file hello will be in the working directory, you are not allowed to use the commas for this script
 10-mirror_permissions file contains a script that sets the mode of the file hello the same as olleh's mode
+11-a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
